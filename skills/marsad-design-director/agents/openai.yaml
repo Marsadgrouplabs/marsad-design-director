@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marsad Design Director"
+  short_description: "تصميم متنوع يلتزم بالبراند ويفحص الكليشيهات"
+  default_prompt: "Use $marsad-design-director to design this asset from my brief and available brand materials."

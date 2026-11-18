@@ -1,0 +1,15 @@
+{
+  "name": "marsad-marsad-design-director",
+  "description": "Direct, create or critique logos, social graphics, ads, covers, presentations and web visuals.",
+  "owner": {
+    "name": "Marsad Labs",
+    "url": "https://labs.marsadgroup.co"
+  },
+  "plugins": [
+    {
+      "name": "marsad-design-director",
+      "source": "./",
+      "description": "Direct, create or critique logos, social graphics, ads, covers, presentations and web visuals."
+    }
+  ]
+}
